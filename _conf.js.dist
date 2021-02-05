@@ -1,0 +1,11 @@
+const CONFIG = {
+    admins: [""],
+    discord_invite: "https://discord.gg/hW9UCgR",
+    public: false,
+    firebase: {
+        apiKey: "",	 
+        databaseURL: "https://xxx.firebaseio.com",
+        projectId: "xxx",
+        storageBucket: "xxx.appspot.com",
+        }, 
+};
