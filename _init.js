@@ -7,7 +7,7 @@ var commands;
 console.log("Running Server...");
 var room = WLInit({
 	token: window.WLTOKEN,
-	roomName: "🎁 XMAS PARTY ROOM 🎄",
+	roomName: "Just another room",
 	maxPlayers: 30,	
 	public: CONFIG.public
 });
